@@ -4,7 +4,7 @@ node server.js
 開啟2個瀏覽器分頁輸入 http://127.0.0.1:3000/index.html
 即可使用
 
-![成果錄影](https://github.com/SIAOYUCHEN/ChatRoom/result.gif)
+![成果錄影]([https://github.com/SIAOYUCHEN/ChatRoom/result.gif](https://github.com/SIAOYUCHEN/ChatRoom/blob/main/result.gif))
 
 # 前端框架
 1. Jqery

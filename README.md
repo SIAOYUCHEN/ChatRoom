@@ -1,3 +1,10 @@
+# 如何使用
+node server.js
+
+開啟2個瀏覽器分頁輸入 http://127.0.0.1:3000/index.html
+即可使用
+
+
 # 前端框架
 1. Jqery
 2. Html

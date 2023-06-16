@@ -4,7 +4,7 @@ node server.js
 開啟2個瀏覽器分頁輸入 http://127.0.0.1:3000/index.html
 即可使用
 
-![result](https://github.com/SIAOYUCHEN/ChatRoom/assets/11059938/505d6dc5-5b48-4330-a4b2-1b40b6d0d3bd)
+https://github.com/RexHung0302/Socketio-Server/assets/11059938/f30dcbe4-d6fc-44bf-94c6-e5268cf123bc
 
 
 # 前端框架
